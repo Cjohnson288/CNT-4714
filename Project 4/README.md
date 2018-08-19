@@ -1,4 +1,4 @@
-The folder should be kept in the same exact directory strcutre and placed inside the Tomcat webapps folder. I ran the webapp on Tomcat 9.0.
+The folder should be kept in the same exact directory strcuture and placed inside the Tomcat webapps folder. I ran the webapp on Tomcat 9.0.
 
 Objectives: To incorporate many of the techniques you’ve learned so far this semester into a distributed three-tier web-based application 
 which uses servlets running on a Tomcat server to access and maintain a persistent MySQL database using JDBC.
